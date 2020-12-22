@@ -26,10 +26,10 @@
                               Select
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                              <li><a class="dropdown-item" href="elephant.html">Elephant</a></li>
-                              <li><a class="dropdown-item" href="lion.html">Lion</a></li>
+                              <li><a class="dropdown-item" href="elephant.php">Elephant</a></li>
+                              <li><a class="dropdown-item" href="lion.php">Lion</a></li>
                               <li><hr class="dropdown-divider"></li>
-                              <li><a class="dropdown-item" href="zebra.html">Zebra</a></li>
+                              <li><a class="dropdown-item" href="zebra.php">Zebra</a></li>
                             </ul>
                           </li>
                   </ul>
